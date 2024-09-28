@@ -1,0 +1,29 @@
+a = 6
+if (a==6):
+    print("hello")
+elif(a==8):
+    print("heaven")
+elif(a==12):
+    print("home")
+else:
+    print("none")
+if(a<7):
+    print("good evening")
+a=2
+if(a!=6):
+    print("welcome")
+# or
+a=2
+b=8
+if(a==6 or b==8):
+    print('gentle')
+if(a==2 and b==8):
+    print("amazing")
+val = True
+if(val is True):
+    print('Am home')
+val=False
+if(val is not True):
+    print('ojonla')
+if(True):
+    print("originality")
